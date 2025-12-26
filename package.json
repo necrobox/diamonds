@@ -28,7 +28,7 @@
     "MIGRATION.md"
   ],
   "devDependencies": {
-    "@funboxteam/eslint-config": "7.4.0",
+    "@necrobox/eslint-config": "9.0.0",
     "@types/chai": "4.2.11",
     "@types/mocha": "10.0.10",
     "@types/node": "20.19.27",

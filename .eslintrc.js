@@ -3,7 +3,7 @@ module.exports = {
     browser: true,
   },
   extends: [
-    '@funboxteam',
+    '@necrobox',
     'plugin:@typescript-eslint/recommended',
     'plugin:@typescript-eslint/recommended-requiring-type-checking',
   ],
